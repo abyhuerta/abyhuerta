@@ -1,4 +1,4 @@
-### Hello!   <img src="https://slackmojis.com/emojis/16128-computer/download"/>
+### Hello!   <img width = "75px" src="https://i.imgur.com/bICmRHi_d.jpg?maxwidth=520&shape=thumb&fidelity=high"/>
 
 I'm [**Aby**](https://abyhuerta.github.io/aby/), a computer science student from Texas, US.
 
