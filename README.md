@@ -2,7 +2,7 @@
 
 I'm [**Aby**](https://abyhuerta.github.io/aby/), a computer science student from Texas, US.
 
-I currently work as a comp sci. tutor for the [**Society of Hispanic Professional Engineers**](https://shpe.org/about-shpe/) & [**Papaya**](https://papayatutor.com/?page_id=922).
+I currently work as a comp sci. tutor for the [**University of Texas at San Antonio**](https://shpe.org/about-shpe/).
 
 I'm interested in full-stack development and researching in spacecraft systems & digital health.
 
