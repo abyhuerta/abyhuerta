@@ -1,6 +1,6 @@
 ### Hello!   <img width = "75px" src="https://i.imgur.com/bICmRHi_d.jpg?maxwidth=520&shape=thumb&fidelity=high"/>
 
-I'm [**Aby**](https://abyhuerta.github.io/aby/), a computer science student from Texas, US.
+I'm [**Aby**](http://abyroxana.com/), a computer science student from Texas, US.
 
 I currently work as a comp sci. tutor for the [**University of Texas at San Antonio**](https://sciences.utsa.edu/computer-science/).
 
