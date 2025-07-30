@@ -3,7 +3,7 @@
 
 I'm [**Aby**](http://abyroxana.com/), a computer science student from Texas, US.
 
-I currently work as a software engineern intern @ [**Arrow North Design**](https://www.arrownorth.design/), and as a comp sci. tutor @ [**The University of Texas at San Antonio**](https://sciences.utsa.edu/computer-science/).
+I currently work as a software engineern intern @ [**Visa**](https://corporate.visa.com/en/about-visa.html), and a full-stack developer @ [**UTSA Scooter Lab**](https://scooterlab.utsa.edu/).
 
 I'm interested in full-stack development and researching in spacecraft systems & digital health.
 
