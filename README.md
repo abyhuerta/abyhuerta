@@ -3,7 +3,7 @@
 
 I'm [**Aby**](http://abyroxana.com/), a computer science student from Texas, US.
 
-I currently work as a software engineern intern @ [**Visa**](https://corporate.visa.com/en/about-visa.html), and a full-stack developer @ [**UTSA Scooter Lab**](https://scooterlab.utsa.edu/).
+I currently work as a full-stack developer @ [**UTSA Scooter Lab**](https://scooterlab.utsa.edu/).
 
 I'm interested in full-stack development and researching in spacecraft systems & digital health.
 
